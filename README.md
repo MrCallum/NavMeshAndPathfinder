@@ -16,8 +16,11 @@ Watch a demonstration on [YouTube](https://youtu.be/bUmpgySsEf4).
 
 Guide:
 
-- Use Unreal 5.3.
-- Set the view to “Top” orthographic perspective.
-- Play this in Editor using the “Simulate” option.
-- Once playing, use the on-screen UI to progress the NavMesh creation. Once the NavMesh steps are finished, the pathfinding steps can be done.
+1. Clone the project.
+2. Open the uproject file using Unreal 5.3 and let it compile. 
+3. Once compiled, open "Level_1" or "Level_2.
+4. Set the view to “Top” orthographic perspective.
+5. Set the rendering to "unlit".
+6. Play in Editor using the “Simulate” option.
+7. Once playing, use the on-screen UI to progress the NavMesh creation. Once the NavMesh steps are finished, the pathfinding steps can be done.
 
